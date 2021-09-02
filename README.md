@@ -3,10 +3,10 @@
 
 Some facts about me.
 
-🔭 I have always been fascinated by the fact how code and the cutting edge technology could be levereged into admirable and convenient user interfaces which solve many problems and tasks. A career of a web developer is giving me the opportunity to contribute to creation of such interfaces, as well as the opportunity to continually learn and improve my skills.
-🌱 I am a graduate of [Yandex Praktikum](https://praktikum.yandex.ru/) Web Developer course with a volume of 560 hours. I continue learning JavaScript, React and Typescript.
-📫 You can contact me by email irin.bon@gmail.com, [Facebook](https://www.facebook.com/irina.abah/) or [LinkedIn](https://www.linkedin.com/in/iryna-abah/).
-👯 I am open to interesting collaboration and offers.
+- 🔭 I have always been fascinated by the fact how code and the cutting edge technology could be levereged into admirable and convenient user interfaces which solve many problems and tasks. A career of a web developer is giving me the opportunity to contribute to creation of such interfaces, as well as the opportunity to continually learn and improve my skills.
+- 🌱 I am a graduate of [Yandex Praktikum](https://praktikum.yandex.ru/) Web Developer course with a volume of 560 hours. I continue learning JavaScript, React and Typescript.
+- 📫 You can contact me by email irin.bon@gmail.com, [Facebook](https://www.facebook.com/irina.abah/) or [LinkedIn](https://www.linkedin.com/in/iryna-abah/).
+- 👯 I am open to interesting collaboration and offers.
 
 #### 🛠  Technologies and tools
 
