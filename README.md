@@ -3,7 +3,7 @@
 
 Some facts about me.
 
-- 🔭 I have always been fascinated by the fact how code and the cutting edge technology could be levereged into admirable and convenient user interfaces which solve many problems and tasks. 
+- 🔭 I have always been fascinated by the fact how code and the cutting edge technology could be leveraged into admirable and convenient user interfaces which solve many problems and tasks. 
 - 🌱 I am a graduate of [Yandex Praktikum](https://practicum.yandex.com/web/) Web Developer course with a volume of 560 hours. I continue learning JavaScript, React and Typescript.
 - 📫 You can contact me by email irin.bon@gmail.com, [Facebook](https://www.facebook.com/irina.abah/) or [LinkedIn](https://www.linkedin.com/in/iryna-abah/).
 - 👯 I am open to interesting collaboration and offers.
